@@ -1,0 +1,23 @@
+{
+  "name": "com.alchemybow.loadingscenes",
+  "version": "1.0.0",
+  "displayName": "AlchemyBow.LoadingScenes",
+  "description": "AlchemyBow.LoadingScenes is a package that provides a very simple method of handling loading scenes.",
+  "unity": "2019.4",
+  "licensesUrl": "https://github.com/kempnymaciej/alchemy-loadingscenes/blob/master/LICENSE.md",
+  "keywords": [
+    "loading",
+    "scene",
+    "scenes",
+    "loadingscenes",
+    "loading scenes",
+    "loadingscene",
+    "loading scene",
+    "alchemybow",
+    "alchemy"
+  ],
+  "author": {
+    "name": "Maciej Kempny",
+    "url": "https://github.com/kempnymaciej"
+  }
+}
